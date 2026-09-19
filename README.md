@@ -27,4 +27,8 @@ Bun will manage development, dependencies, tests, and releases. The published li
 ## Licence
 
 Apache License 2.0. See [LICENSE](./LICENSE).
+
+## Contributing
+
+Read [AGENTS.md](./AGENTS.md), [CONTEXT.md](./CONTEXT.md), and [CONTRIBUTING.md](./CONTRIBUTING.md) before making a change.
 TypeScript contracts and tools for evidence-aware financial-advice software.

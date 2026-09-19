@@ -20,6 +20,14 @@ _Avoid_: Extracted fact, finding
 A proposition about a specific subject and field that can be assessed against evidence.
 _Avoid_: Answer, value
 
+**Hard Fact Candidate**:
+A Claim about objective or structured client information, such as identity, income, assets, liabilities, or dates, that still requires review.
+_Avoid_: Hard Fact, extracted fact
+
+**Soft Fact Candidate**:
+A Claim about goals, preferences, priorities, concerns, experience, or other client context that still requires review and careful attribution.
+_Avoid_: Soft Fact, inferred motivation
+
 **Fact**:
 A Claim accepted by an authorised reviewer as client information for a stated context and time.
 _Avoid_: High-confidence claim, extracted fact

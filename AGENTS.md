@@ -108,11 +108,15 @@ Public examples must use fictional or synthetic data. Never add client transcrip
 
 ## Pull requests
 
+Read [CONTRIBUTING.md](./CONTRIBUTING.md). All normal changes reach `main` through a pull request.
+
 - One coherent change per pull request.
 - Explain the user or developer problem before the implementation.
 - Call out public API, schema, runtime, or cross-language compatibility changes.
 - Include focused tests for behaviour changes.
-- Do not open a pull request unless the user asks.
+- Open a draft pull request early when a change crosses repositories or more than one working session.
+
+Public contracts, domain vocabulary, evidence authority, provider authentication or writes, package releases, runtime support, and breaking changes are Governed. They require a named human reviewer. The agent that produced the change cannot approve or merge it.
 
 ## Taste
 
